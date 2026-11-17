@@ -1,4 +1,4 @@
-<h1>Hi, I'm Reggie, an <a href="https://linkedin.com/in/reginald-smith-jr-a1ab03341">IT Professional</h1>
+<h1>Hi, I'm Devon, an <a href="https://linkedin.com/in/reginald-smith-jr-a1ab03341">IT Professional</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
