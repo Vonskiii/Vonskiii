@@ -1,24 +1,25 @@
 
-<h1>Hi, I'm Devon, an IT Professional</h1>
+# Hi, I'm [First Name], an IT Professional
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+---
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Vonskiii/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Vonskiii/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Vonskiii/ticket-lifecycle)
+## 👨‍💻 Information Technology Projects:
 
-- <b>Active Directory</b>
-  - [Preparing Active Directory Infrastructure in Azure](https://github.com/Vonskiii/configure-ad)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Vonskiii/Azure-AD_OnPrem-Lab)
-  - [Configuring GPO and unlocking users accounts/resetting passwords](https://github.com/Vonskiii/Configuring-GPO-and-unlocking-users-accounts-resetting-passwords/blob/main/README.md)
+- **osTicket (Help Desk Ticketing System)**
+  - [Prerequisites and Installation](PROJECT_URL)
+  - [Post-Installation Configuration](PROJECT_URL)
+  - [Ticket Lifecycle Examples](PROJECT_URL)
 
-- <b>Network File shares and permissions</b>
-  - [Network File Shares and permissions Lab](https://github.com/Vonskiii/Network-File-Shares-and-Permissions)
+- **Active Directory**
+  - [Preparing Active Directory Infrastructure](PROJECT_URL)
+  - [Configuring Active Directory](PROJECT_URL)
+  - [Group Policy and User Management](PROJECT_URL)
 
-<h2>🤳 Connect with me:</h2>
+- **Network File Shares and Permissions**
+  - [Network File Shares and Permissions Lab](PROJECT_URL)
 
-<a href="https://linkedin.com/in/reginald-smith-jr-a1ab03341">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+---
 
+## 🔗 Connect with me:
+
+[LinkedIn](LINKEDIN_URL)
